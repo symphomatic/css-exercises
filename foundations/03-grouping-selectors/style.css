@@ -1,0 +1,15 @@
+.firts,
+.second {
+    font-size: 22px;
+    font-family:"Helvetica","Times New Roman","sans-serif";
+
+}
+
+.firts{
+    background-color: black;
+    color: white;
+}
+
+.second{
+    background-color: yellow;
+}
